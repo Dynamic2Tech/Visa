@@ -2,3 +2,5 @@
 echo "Hello World"
 # shell script running 
 python ('Hello World') 
+bug removed 
+
